@@ -2,18 +2,20 @@
 body{ 
     background-color: black;
 }
+
 img{
     float: left;
     width: 10pc;
     height: 10pc;
-
 }
+
 p{
     color:whitesmoke;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-weight: 100;
     font-size: medium;
 }
+
 h1{
     color: whitesmoke;
     font-family: sans-serif;
@@ -27,8 +29,4 @@ h1{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: unset;
     line-height: 5em;
-}
-
-.London{
-    
 }
