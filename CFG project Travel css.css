@@ -6,6 +6,13 @@ body{
     background-image: linear-gradient(to bottom, rgba(250, 250, 250, 0), rgb(250, 202, 202));
 }
 
+.div2 {
+    float: inline-start;
+    width: 12%;
+    padding: 10px;
+}
+
+
 a {
     color: whitesmoke; 
     font-size: large;
@@ -53,8 +60,8 @@ h1{
     font-size: xx-large;
     font-weight: 900;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    text-align:unset;
-    line-height: 3em;
+    text-align:start;
+    line-height:4em;
 }
 .div3 {
 display: inline-flex;
