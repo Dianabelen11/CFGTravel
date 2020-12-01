@@ -38,8 +38,24 @@ body{
         word-spacing: 800px;
         text-align: center;
         font-weight: bold;
+        color: whitesmoke; 
+    
+        
+        }
+            
+            a:link {
+                color: crimson;
+            }
+            a:visited {
+                color:crimson;
+              
+            
+          
     }
 
+
+
+    
    
 /* PHONE VERSION */
 @media only screen and

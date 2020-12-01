@@ -33,6 +33,13 @@ img{
     word-spacing: 800px;
     text-align: center;
     font-weight: bold;
+}
+    a:link {
+        color: crimson;
+    }
+    a:visited {
+        color:crimson;
+      
   }
 
   

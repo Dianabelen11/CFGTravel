@@ -39,6 +39,13 @@ body{
         text-align: center;
         font-weight: bold;
     }
+        a:link {
+            color: crimson;
+        }
+        a:visited {
+            color:crimson;
+          
+    }
 
 /* PHONE VERSION */
 @media only screen and
