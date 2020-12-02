@@ -41,9 +41,11 @@ body{
     }
         a:link {
             color: crimson;
+            text-decoration: none;
         }
         a:visited {
             color:crimson;
+            text-decoration: none;
           
     }
 

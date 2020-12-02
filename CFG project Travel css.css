@@ -16,6 +16,7 @@ body{
 a {
     color: whitesmoke; 
     font-size: large;
+    text-decoration: none;
   }
   a:hover {
     color: lightskyblue;
