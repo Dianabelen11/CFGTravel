@@ -61,7 +61,7 @@ h1{
     font-size: xx-large;
     font-weight: 900;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    text-align:start;
+    text-align:match-parent;
     line-height:4em;
 }
 .div3 {
